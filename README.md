@@ -77,19 +77,23 @@ flutter pub get
 flutter doctor
 ---
 Make sure there are no critical errors.
-
+---
 🔹 Step 4: Run the App
 Option A: Using Emulator
 flutter run
+---
 Option B: Using Physical Device
 Connect phone via USB
+
 Enable USB Debugging
 
 flutter run
+---
 🔹 Step 5: Hot Reload (Optional)
 Press r → Hot Reload
 
 Press R → Hot Restart
+---
 
 📸 UI Highlights
 Calm spiritual gradients
