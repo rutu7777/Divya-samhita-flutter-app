@@ -51,8 +51,6 @@ divya-samhita-flutter/
 ├── pubspec.yaml
 └── README.md
 
-
-
 ---
 
 ## ▶️ How to Run the App (Step-by-Step)
@@ -71,16 +69,20 @@ divya-samhita-flutter/
 🔹 Step 2: Install Dependencies
 ---
 flutter pub get
+
 ---
 🔹 Step 3: Check Flutter Setup
 ---
 flutter doctor
+
 ---
 Make sure there are no critical errors.
+
 ---
 🔹 Step 4: Run the App
 Option A: Using Emulator
 flutter run
+
 ---
 Option B: Using Physical Device
 Connect phone via USB
@@ -88,11 +90,12 @@ Connect phone via USB
 Enable USB Debugging
 
 flutter run
+
 ---
 🔹 Step 5: Hot Reload (Optional)
 Press r → Hot Reload
-
 Press R → Hot Restart
+
 ---
 
 📸 UI Highlights
