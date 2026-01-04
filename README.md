@@ -77,7 +77,7 @@ Press R → Hot Restart
 ---
 
 📸 UI Highlights
-
+--
 Calm spiritual gradients
 
 Elegant verse cards
@@ -86,14 +86,15 @@ Minimal typography
 
 Distraction-free experience
 
-🧩 Current Limitations
 
+🧩 Current Limitations
+---
 Limited verse dataset
 
 Keyword-based matching only
 
 🔮 Future Enhancements
-
+---
 AI-based semantic search
 
 Larger scripture database
