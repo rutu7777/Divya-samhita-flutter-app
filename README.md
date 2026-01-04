@@ -67,10 +67,15 @@ divya-samhita-flutter/
 ---
 
 ### 🔹 Step 1: Clone the Repository
+---
 🔹 Step 2: Install Dependencies
+---
 flutter pub get
+---
 🔹 Step 3: Check Flutter Setup
+---
 flutter doctor
+---
 Make sure there are no critical errors.
 
 🔹 Step 4: Run the App
