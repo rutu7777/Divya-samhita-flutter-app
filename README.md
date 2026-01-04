@@ -28,28 +28,6 @@ The app presents verses from the **Bhagavad Gita**, **Sant Tukaram Maharaj**, an
 - **JSON** – Offline data storage
 - **Android SDK** – Mobile deployment
 
----
-
-## 📂 Project Structure
-
-divya-samhita-flutter/
-│
-├── assets/
-│ └── data/
-│ └── verses.json
-│
-├── lib/
-│ ├── models/
-│ │ └── verse.dart
-│ ├── services/
-│ │ └── data_service.dart
-│ ├── screens/
-│ │ ├── welcome_screen.dart
-│ │ └── home_screen.dart
-│ └── main.dart
-│
-├── pubspec.yaml
-└── README.md
 
 ---
 
@@ -75,7 +53,6 @@ flutter pub get
 ---
 flutter doctor
 
----
 Make sure there are no critical errors.
 
 ---
@@ -94,6 +71,7 @@ flutter run
 ---
 🔹 Step 5: Hot Reload (Optional)
 Press r → Hot Reload
+
 Press R → Hot Restart
 
 ---
